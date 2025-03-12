@@ -1,0 +1,23 @@
+2025-03-07 15:22:25,401 - INFO - [logger:log_success] - milvus_initialization - Deleting the collection.
+2025-03-07 15:22:25,477 - INFO - [logger:log_success] - milvus_initialization - milvusdb collection {collection_name} created and retrived
+2025-03-07 15:22:50,505 - INFO - [logger:log_success] - milvus_initialization - Deleting the collection.
+2025-03-07 15:22:50,568 - INFO - [logger:log_success] - milvus_initialization - milvusdb collection ml_pdf_data created and retrived
+2025-03-10 08:25:53,628 - INFO - [logger:log] - milvus_initialization - Deleting the collection.
+2025-03-10 08:25:53,700 - INFO - [logger:log] - milvus_initialization - milvusdb collection ml_pdf_data created and retrived
+2025-03-11 15:49:22,186 - INFO - [logger:log] - milvus_init - new milvus connection extablished  
+2025-03-11 15:49:22,203 - INFO - [logger:log] - milvus_init - Deleting the collection.
+2025-03-11 15:49:22,272 - INFO - [logger:log] - milvus_init - milvusdb collection ml_pdf_data created and retrived
+2025-03-11 15:49:53,422 - INFO - [logger:log] - milvus_init - new milvus connection extablished  
+2025-03-11 15:49:53,441 - INFO - [logger:log] - milvus_init - Deleting the collection.
+2025-03-11 15:49:53,516 - INFO - [logger:log] - milvus_init - milvusdb collection ml_pdf_data created and retrived
+2025-03-11 15:49:53,516 - INFO - [logger:log] - milvus_init - connection already exists and working 
+2025-03-11 15:49:53,516 - INFO - [logger:log] - milvus_init - connection already exists and working 
+2025-03-11 15:50:14,801 - INFO - [logger:log] - milvus_init - new milvus connection extablished  
+2025-03-11 15:50:14,858 - INFO - [logger:log] - milvus_init - milvusdb collection ml_pdf_data retrived
+2025-03-11 15:51:49,551 - INFO - [logger:log] - milvus_init - new milvus connection extablished  
+2025-03-11 15:51:49,614 - INFO - [logger:log] - milvus_init - Deleting the collection.
+2025-03-11 15:51:49,687 - INFO - [logger:log] - milvus_init - milvusdb collection ml_pdf_data created and retrived
+2025-03-11 15:51:49,688 - INFO - [logger:log] - milvus_init - connection already exists and working 
+2025-03-11 15:51:49,688 - INFO - [logger:log] - milvus_init - connection already exists and working 
+2025-03-12 08:26:22,008 - INFO - [logger:log] - milvus_init - unable to delete the collection <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-12 08:28:18,133 - INFO - [log] - milvus_init - unable to delete the collection <ConnectionNotExistException: (code=1, message=should create connection first.)>

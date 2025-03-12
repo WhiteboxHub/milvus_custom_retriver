@@ -1,0 +1,12 @@
+2025-03-12 08:26:22,008 - ERROR - [logger:error] - milvus_init - error while checking milvus connection <MilvusException: (code=2, message=Fail connecting to server on localhost:19530, illegal connection params or server unavailable)>
+2025-03-12 08:26:22,009 - ERROR - [logger:error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-12 08:26:32,059 - ERROR - [logger:error] - milvus_init - error while checking milvus connection <MilvusException: (code=2, message=Fail connecting to server on localhost:19530, illegal connection params or server unavailable)>
+2025-03-12 08:26:32,059 - ERROR - [logger:error] - milvus_init - error while checking milvus connection <MilvusException: (code=2, message=Fail connecting to server on localhost:19530, illegal connection params or server unavailable)>
+2025-03-12 08:26:32,061 - ERROR - [logger:error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-12 08:26:32,061 - ERROR - [logger:error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-12 08:28:18,132 - ERROR - [error] - milvus_init - error while checking milvus connection <MilvusException: (code=2, message=Fail connecting to server on localhost:19530, illegal connection params or server unavailable)>
+2025-03-12 08:28:18,134 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-12 08:28:28,322 - ERROR - [error] - milvus_init - error while checking milvus connection <MilvusException: (code=2, message=Fail connecting to server on localhost:19530, illegal connection params or server unavailable)>
+2025-03-12 08:28:28,322 - ERROR - [error] - milvus_init - error while checking milvus connection <MilvusException: (code=2, message=Fail connecting to server on localhost:19530, illegal connection params or server unavailable)>
+2025-03-12 08:28:28,323 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-12 08:28:28,323 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
