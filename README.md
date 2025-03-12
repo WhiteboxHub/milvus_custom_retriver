@@ -480,7 +480,3 @@ Before running the test, ensure you follow these steps:
 Following this process ensures that the **Milvus client is properly logging connection attempts**. 🚀  
 Let me know if you want to modify or add anything! 😊  
 ```
-
----
-#   m i l v u s _ c u s t o m _ r e t r i v e r  
- 
