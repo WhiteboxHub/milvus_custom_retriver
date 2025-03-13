@@ -105,7 +105,7 @@ def milvus_insert_data(file_name : str,doc : str, doc_embeding):
             data=data
         )
         logs.log("inserted in to the collection","milvus_insert")
-        return res
+        return res 
     except Exception as e:
         logs.error(f"error occured while instering {e}","milvus_insert")
 
@@ -113,4 +113,3 @@ def milvus_insert_data(file_name : str,doc : str, doc_embeding):
 
 
    
-    
