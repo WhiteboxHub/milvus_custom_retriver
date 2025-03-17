@@ -332,13 +332,19 @@ there is still no starting point will update it soon
 # ------- Contribution Guidelines -------------
 
 ## 🔹 Git Workflow
-
 To maintain **code quality and stability**, follow this Git workflow:
 
+# ------- MUST READ -------------
 1. **No direct commits to the `main` branch** 🚫  
-2. **Create your own feature branch** from `testing`  
-3. **Commit after implementing each function** for better tracking  
-4. **Create a Pull Request (PR) to the `testing` branch**  
+2. **Create your own branch** from `develop`  
+3. **Always create a feature branch** from the develop branch using the format:` user/feature_name` (e.g., **ajmeer/milvus_dbinsertion**).
+3. **if it is a bug fix create a branch** from the develop branch using the format:` user/bugfix/bugname` (e.g., **ajmeer/bugfix/milvus_connection**).
+4. **This branch is dedicated** to writing code for the specific **feature** mentioned in its name. (eg: `ajmeer/milvus_insetion`  in this you will only write code related to milvus_insertion)
+5. **Commit after implementing each function** for better tracking  
+6. **Once the feature** is completed, push the branch to the remote repository.
+7. **Create a Pull Request (PR)** to merge the feature branch into `develop`.
+8. **After merging** do not modify the old branch—consider it finalized.
+9. **Start a new feature** by creating a fresh branch from develop
 5. **After testing is completed**, it will be merged into `main`  
 
 ---
@@ -347,26 +353,26 @@ To maintain **code quality and stability**, follow this Git workflow:
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone <repo_url>
-cd <repo_name>
+git clone https://github.com/WhiteboxHub/milvus_custom_retriver.git
+cd milvus_custom_retriver
 ```
 
-### 2️⃣ Create a New Branch (from `testing`)
+### 2️⃣ Create a New Branch (from `develop`)
 ```sh
-git checkout testing
-git pull origin testing  # Ensure it's up to date
-git checkout -b feature/my-new-feature
+git checkout develop
+git pull origin develop  # Ensure it's up to date
+git checkout -b user/my-new-feature
 ```
 
 ### 3️⃣ Commit After Each Function Implementation
 ```sh
 git add my_file.py
 git commit -m "Added function X to handle Y"
-git push origin feature/my-new-feature
+git push origin user/my-new-feature
 ```
 
 ### 4️⃣ Create a Pull Request (PR)
-- Open a PR **from your branch → `testing` branch**  
+- Open a PR **from your branch → `develop` branch**  
 - Wait for **code review and testing**  
 - Once approved, it will be merged into `main` after validation ✅  
 
@@ -376,8 +382,9 @@ git push origin feature/my-new-feature
 
 - **Write meaningful commit messages** (e.g., `Fixed bug in X` instead of `Fixed something`)
 - **Run tests before pushing your code**
-- **Use feature branches** (e.g., `feature/add-login`, `bugfix/fix-db-connection`)
+- **Use feature branches** (e.g., `user/add-login`, `user/bugfix/fix-db-connection`)
 - **Keep PRs small & focused** (avoid merging too many changes at once)
+- **One feature in one PR** every `PR` should only contain one feature or one Bug solution. if there are more then one feature in a `PR` it will rejected.
 
 ---
 
@@ -479,4 +486,4 @@ Before running the test, ensure you follow these steps:
 
 Following this process ensures that the **Milvus client is properly logging connection attempts**. 🚀  
 Let me know if you want to modify or add anything! 😊  
-```
+

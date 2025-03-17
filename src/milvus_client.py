@@ -62,7 +62,7 @@ def milvus_initialization(collection_name = None,drop_collection = False):
             FieldSchema(name='pk', dtype=DataType.INT64, is_primary=True, auto_id= True),
             FieldSchema(name='filename', dtype=DataType.VARCHAR,max_length = 500),
             FieldSchema(name='embeddings', dtype=DataType.FLOAT_VECTOR,dim=768),
-            FieldSchema(name='text', dtype=DataType.VARCHAR , max_length = 500), 
+            FieldSchema(name='text', dtype=DataType.VARCHAR , max_length = 700), 
         ]
 
 
@@ -105,7 +105,7 @@ def milvus_insert_data(file_name : str,doc : str, doc_embeding):
             data=data
         )
         logs.log("inserted in to the collection","milvus_insert")
-        return res
+        return res 
     except Exception as e:
         logs.error(f"error occured while instering {e}","milvus_insert")
 
@@ -113,4 +113,3 @@ def milvus_insert_data(file_name : str,doc : str, doc_embeding):
 
 
    
-    
