@@ -33,3 +33,34 @@
 2025-03-12 08:28:28,322 - ERROR - [error] - milvus_init - error while checking milvus connection <MilvusException: (code=2, message=Fail connecting to server on localhost:19530, illegal connection params or server unavailable)>
 2025-03-12 08:28:28,323 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
 2025-03-12 08:28:28,323 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-17 15:18:20,708 - INFO - [log] - create_embedding.py - creating Embdding initialized
+2025-03-17 15:18:20,709 - INFO - [log] - embeddings_generation - chunking the text using text splitter
+2025-03-17 15:20:43,692 - INFO - [log] - create_embedding.py - creating Embdding initialized
+2025-03-17 15:20:43,693 - INFO - [log] - embeddings_generation - chunking the text using text splitter
+2025-03-17 15:21:10,783 - INFO - [log] - create_embedding.py - creating Embdding initialized
+2025-03-17 15:21:10,783 - INFO - [log] - embeddings_generation - chunking the text using text splitter
+2025-03-17 15:21:10,783 - ERROR - [error] - create_embeddings.py - error created while creating embeddings _Get_Embedding_model.<locals>.Embedding_model.embed_docs() missing 1 required positional argument: 'docs'
+2025-03-17 15:22:32,356 - INFO - [log] - create_embedding.py - creating Embdding initialized
+2025-03-17 15:22:32,356 - INFO - [log] - embeddings_generation - chunking the text using text splitter
+2025-03-17 15:22:32,357 - ERROR - [error] - create_embeddings.py - error created while creating embeddings _Get_Embedding_model.<locals>.Embedding_model.embed_docs() missing 1 required positional argument: 'docs'
+2025-03-17 15:23:06,597 - INFO - [log] - create_embedding.py - creating Embdding initialized
+2025-03-17 15:23:06,597 - INFO - [log] - embeddings_generation - chunking the text using text splitter
+2025-03-17 15:24:34,417 - INFO - [log] - create_embedding.py - creating Embdding initialized
+2025-03-17 15:24:34,417 - INFO - [log] - embeddings_generation - chunking the text using text splitter
+2025-03-17 15:25:32,458 - INFO - [log] - create_embedding.py - creating Embdding initialized
+2025-03-17 15:25:32,458 - INFO - [log] - embeddings_generation - chunking the text using text splitter
+2025-03-17 15:31:07,793 - INFO - [log] - create_embedding.py - creating Embdding initialized
+2025-03-17 15:39:02,374 - INFO - [log] - create_embedding - initializing creating Embdding process... 
+2025-03-17 15:39:02,375 - ERROR - [error] - create_embeddings.py - error created while creating embeddings Logger.info() missing 1 required positional argument: 'source'
+2025-03-17 15:39:37,642 - INFO - [log] - create_embedding - initializing creating Embdding process... 
+2025-03-17 15:39:37,643 - DEBUG - [info] - create_embedding - Split text into 8 chunks
+2025-03-17 15:39:42,069 - ERROR - [error] - create_embeddings.py - error created while creating embeddings 'NoneType' object has no attribute 'tokenize'
+2025-03-17 15:40:20,660 - INFO - [log] - create_embedding - initializing creating Embdding process... 
+2025-03-17 15:40:20,661 - DEBUG - [info] - create_embedding - Split text into 8 chunks
+2025-03-17 15:40:28,700 - ERROR - [error] - create_embeddings.py - error created while creating embeddings 'NoneType' object has no attribute 'tokenize'
+2025-03-17 15:41:22,153 - INFO - [log] - create_embedding - initializing creating Embdding process... 
+2025-03-17 15:41:22,153 - DEBUG - [info] - create_embedding - Split text into 8 chunks
+2025-03-17 15:41:26,534 - ERROR - [error] - create_embeddings.py - error created while creating embeddings 'NoneType' object has no attribute 'tokenize'
+2025-03-17 15:43:41,560 - INFO - [log] - create_embedding - initializing creating Embdding process... 
+2025-03-17 15:43:41,561 - DEBUG - [info] - create_embedding - Split text into 8 chunks
+2025-03-17 15:43:45,565 - DEBUG - [info] - create_embedding - Generated Embedding for the model
