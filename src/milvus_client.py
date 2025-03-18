@@ -61,7 +61,7 @@ def milvus_initialization(collection_name = None,drop_collection = False):
             FieldSchema(name='pk', dtype=DataType.INT64, is_primary=True, auto_id= True),
             FieldSchema(name='filename', dtype=DataType.VARCHAR,max_length = 500),
             FieldSchema(name='embeddings', dtype=DataType.FLOAT_VECTOR,dim=768),
-            FieldSchema(name='text', dtype=DataType.VARCHAR , max_length = 700), 
+            FieldSchema(name='text', dtype=DataType.VARCHAR , max_length = 500), 
         ]
 
 

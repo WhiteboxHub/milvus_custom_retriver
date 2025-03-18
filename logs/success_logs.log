@@ -21,23 +21,3 @@
 2025-03-11 15:51:49,688 - INFO - [logger:log] - milvus_init - connection already exists and working 
 2025-03-12 08:26:22,008 - INFO - [logger:log] - milvus_init - unable to delete the collection <ConnectionNotExistException: (code=1, message=should create connection first.)>
 2025-03-12 08:28:18,133 - INFO - [log] - milvus_init - unable to delete the collection <ConnectionNotExistException: (code=1, message=should create connection first.)>
-2025-03-17 15:18:20,708 - INFO - [log] - create_embedding.py - creating Embdding initialized
-2025-03-17 15:18:20,709 - INFO - [log] - embeddings_generation - chunking the text using text splitter
-2025-03-17 15:20:43,692 - INFO - [log] - create_embedding.py - creating Embdding initialized
-2025-03-17 15:20:43,693 - INFO - [log] - embeddings_generation - chunking the text using text splitter
-2025-03-17 15:21:10,783 - INFO - [log] - create_embedding.py - creating Embdding initialized
-2025-03-17 15:21:10,783 - INFO - [log] - embeddings_generation - chunking the text using text splitter
-2025-03-17 15:22:32,356 - INFO - [log] - create_embedding.py - creating Embdding initialized
-2025-03-17 15:22:32,356 - INFO - [log] - embeddings_generation - chunking the text using text splitter
-2025-03-17 15:23:06,597 - INFO - [log] - create_embedding.py - creating Embdding initialized
-2025-03-17 15:23:06,597 - INFO - [log] - embeddings_generation - chunking the text using text splitter
-2025-03-17 15:24:34,417 - INFO - [log] - create_embedding.py - creating Embdding initialized
-2025-03-17 15:24:34,417 - INFO - [log] - embeddings_generation - chunking the text using text splitter
-2025-03-17 15:25:32,458 - INFO - [log] - create_embedding.py - creating Embdding initialized
-2025-03-17 15:25:32,458 - INFO - [log] - embeddings_generation - chunking the text using text splitter
-2025-03-17 15:31:07,793 - INFO - [log] - create_embedding.py - creating Embdding initialized
-2025-03-17 15:39:02,374 - INFO - [log] - create_embedding - initializing creating Embdding process... 
-2025-03-17 15:39:37,642 - INFO - [log] - create_embedding - initializing creating Embdding process... 
-2025-03-17 15:40:20,660 - INFO - [log] - create_embedding - initializing creating Embdding process... 
-2025-03-17 15:41:22,153 - INFO - [log] - create_embedding - initializing creating Embdding process... 
-2025-03-17 15:43:41,560 - INFO - [log] - create_embedding - initializing creating Embdding process... 
