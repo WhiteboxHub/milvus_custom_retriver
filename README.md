@@ -338,7 +338,6 @@ To maintain **code quality and stability**, follow this Git workflow:
 1. **No direct commits to the `main` branch** 🚫  
 2. **Create your own branch** from `develop`  
 3. **Always create a feature branch** from the develop branch using the format:` user/feature_name` (e.g., **ajmeer/milvus_dbinsertion**).
-3. **Always create a feature branch** from the develop branch using the format:` user/test/test_feature` (e.g., **ajmeer/test/milvus_dbinsertion**).
 3. **if it is a bug fix create a branch** from the develop branch using the format:` user/bugfix/bugname` (e.g., **ajmeer/bugfix/milvus_connection**).
 4. **This branch is dedicated** to writing code for the specific **feature** mentioned in its name. (eg: `ajmeer/milvus_insetion`  in this you will only write code related to milvus_insertion)
 5. **Commit after implementing each function** for better tracking  
