@@ -1,3 +1,4 @@
+
 from sentence_transformers import SentenceTransformer
 from typing import Annotated
 from langchain_text_splitters import RecursiveCharacterTextSplitter,CharacterTextSplitter
@@ -33,7 +34,7 @@ class Embedding_model:
 
 def Text_splitter(text: Annotated[str,"The text that needs to be chunked."],
                   chunk_size : Annotated[int,"The size of each chunk."], 
-                  chunk_overlap: Annotated[int,"the precent of chunk to overlap. "] = 0.2):
+                  chunk_overlap: Annotated[int,"the precent of chunk to overlap."] = 0.2):
     
     """ function to create the chunks for a longer text."""
 
@@ -49,12 +50,13 @@ def Text_splitter(text: Annotated[str,"The text that needs to be chunked."],
     
         
 
-#  
+
 
 def create_embeddings(text_data : Annotated[str, "The Text Data of pdf from data folder"],
-                      chunk_size : int = 512,
+                      chunk_size : int = 512
                       ):
     """Create embeddings for the given text data."""
+
     _logger.log('initializing creating Embdding process... ','create_embedding')
 
     try:

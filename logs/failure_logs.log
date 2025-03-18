@@ -10,9 +10,3 @@
 2025-03-12 08:28:28,322 - ERROR - [error] - milvus_init - error while checking milvus connection <MilvusException: (code=2, message=Fail connecting to server on localhost:19530, illegal connection params or server unavailable)>
 2025-03-12 08:28:28,323 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
 2025-03-12 08:28:28,323 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
-2025-03-17 15:21:10,783 - ERROR - [error] - create_embeddings.py - error created while creating embeddings _Get_Embedding_model.<locals>.Embedding_model.embed_docs() missing 1 required positional argument: 'docs'
-2025-03-17 15:22:32,357 - ERROR - [error] - create_embeddings.py - error created while creating embeddings _Get_Embedding_model.<locals>.Embedding_model.embed_docs() missing 1 required positional argument: 'docs'
-2025-03-17 15:39:02,375 - ERROR - [error] - create_embeddings.py - error created while creating embeddings Logger.info() missing 1 required positional argument: 'source'
-2025-03-17 15:39:42,069 - ERROR - [error] - create_embeddings.py - error created while creating embeddings 'NoneType' object has no attribute 'tokenize'
-2025-03-17 15:40:28,700 - ERROR - [error] - create_embeddings.py - error created while creating embeddings 'NoneType' object has no attribute 'tokenize'
-2025-03-17 15:41:26,534 - ERROR - [error] - create_embeddings.py - error created while creating embeddings 'NoneType' object has no attribute 'tokenize'
