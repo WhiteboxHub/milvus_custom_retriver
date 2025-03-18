@@ -42,7 +42,6 @@ def milvus_initialization(collection_name = None,drop_collection = False):
                 loggers.error(f"error while checking milvus connection {e}","milvus_init")
 
         try:
-
             connections.connect('default',host=os.getenv("MILVUS_HOST","localhost"),port=os.getenv("MILVUS_PORT","19530"))
             _milvus_connection = True
             loggers.log("new milvus connection extablished  ","milvus_init")
