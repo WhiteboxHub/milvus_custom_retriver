@@ -8,7 +8,7 @@ from pymilvus import (connections,
 
 from dotenv import load_dotenv
 import os
-from utils import logger
+from src.utils import logger
 import threading
 from langchain_milvus import Milvus
 
@@ -68,6 +68,7 @@ def milvus_initialization(collection_name = None,drop_collection = False):
         schema = CollectionSchema(fields,"Machine learning")
 
         try:
+            
             if utility.has_collection(collection_name):
                 _milvus_collection = Collection(collection_name)
                 loggers.log(f'milvusdb collection {collection_name} retrived','milvus_init')

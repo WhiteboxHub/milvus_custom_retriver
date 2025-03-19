@@ -33,3 +33,77 @@
 2025-03-12 08:28:28,322 - ERROR - [error] - milvus_init - error while checking milvus connection <MilvusException: (code=2, message=Fail connecting to server on localhost:19530, illegal connection params or server unavailable)>
 2025-03-12 08:28:28,323 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
 2025-03-12 08:28:28,323 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 14:43:47,520 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-19 14:43:47,522 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 14:45:33,326 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-19 14:45:33,326 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 14:47:30,632 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-19 14:47:30,632 - INFO - [log] - milvus_init - unable to delete the collection <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 14:47:30,633 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 14:49:45,041 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-19 14:49:45,041 - INFO - [log] - milvus_init - unable to delete the collection <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 14:49:45,042 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 14:51:23,530 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-19 14:51:23,530 - INFO - [log] - milvus_init - unable to delete the collection <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 14:51:23,530 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 14:51:51,478 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-19 14:51:51,479 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 14:51:59,106 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-19 14:51:59,108 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 14:53:49,328 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-19 14:53:49,329 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 14:55:52,372 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-19 14:55:52,373 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 14:58:04,994 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-19 14:58:04,995 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 14:58:23,584 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-19 14:58:23,584 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 14:58:49,104 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-19 14:58:49,104 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:00:13,171 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-19 15:00:13,171 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:00:59,460 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-19 15:00:59,461 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:01:32,291 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-19 15:01:32,292 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:01:56,832 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-19 15:01:56,832 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:19:44,275 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-19 15:19:44,275 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:20:12,736 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-19 15:20:12,737 - INFO - [log] - milvus_init - unable to delete the collection <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:20:12,737 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:20:53,588 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-19 15:20:53,588 - INFO - [log] - milvus_init - unable to delete the collection <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:20:53,589 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:27:26,416 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-19 15:27:26,416 - INFO - [log] - milvus_init - unable to delete the collection <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:27:26,416 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:27:42,940 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-19 15:27:42,940 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:30:48,038 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-19 15:30:48,039 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:35:09,202 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-19 15:35:09,202 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:37:49,869 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-19 15:37:49,870 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:41:06,833 - ERROR - [error] - milvus_init - error while checking milvus connection MilvusClient.__init__() got multiple values for argument 'uri'
+2025-03-19 15:41:06,834 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:41:48,038 - ERROR - [error] - milvus_init - error while checking milvus connection <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:41:48,039 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:42:43,131 - ERROR - [error] - milvus_init - error while checking milvus connection <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:42:43,131 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:43:46,879 - ERROR - [error] - milvus_init - error while checking milvus connection <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:43:46,879 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:44:13,116 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-19 15:44:13,117 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 16:38:14,908 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-19 16:38:14,908 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 16:39:53,449 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-19 16:39:53,449 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 16:40:34,632 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-19 16:40:34,632 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 16:41:05,241 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-19 16:41:05,241 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 16:43:15,618 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-19 16:43:15,618 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
