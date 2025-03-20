@@ -57,3 +57,827 @@
 2025-03-19 16:40:34,632 - INFO - [log] - milvus_init - new milvus connection extablished  
 2025-03-19 16:41:05,241 - INFO - [log] - milvus_init - new milvus connection extablished  
 2025-03-19 16:43:15,618 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 08:16:56,691 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 08:17:51,690 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 08:18:31,542 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 08:18:42,937 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 08:19:15,369 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 08:19:15,369 - INFO - [log] - milvus_init - unable to delete the collection <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 08:21:01,027 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 08:21:01,027 - INFO - [log] - milvus_init - unable to delete the collection <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 08:21:39,830 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 08:21:39,830 - INFO - [log] - milvus_init - unable to delete the collection <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 08:22:13,703 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 08:22:13,703 - INFO - [log] - milvus_init - unable to delete the collection <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 08:23:53,493 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 08:23:53,493 - INFO - [log] - milvus_init - unable to delete the collection <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 08:24:24,711 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 08:24:24,712 - INFO - [log] - milvus_init - unable to delete the collection <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 08:25:12,478 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 08:25:12,479 - INFO - [log] - milvus_init - unable to delete the collection <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 08:25:25,238 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 08:25:25,238 - INFO - [log] - milvus_init - unable to delete the collection <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 08:28:01,919 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 08:28:01,919 - INFO - [log] - milvus_init - unable to delete the collection <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 08:29:09,898 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 08:29:09,962 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 08:29:10,037 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data created and retrived
+2025-03-20 08:30:27,247 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 08:30:27,324 - INFO - [log] - milvus_init - milvusdb collection test created and retrived
+2025-03-20 08:30:33,618 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 08:34:57,010 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 08:36:49,124 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 08:38:53,481 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 08:39:13,290 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 08:42:51,203 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 08:42:51,276 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 08:42:51,340 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data created and retrived
+2025-03-20 08:42:51,380 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 08:42:51,380 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 08:42:51,381 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 08:42:51,381 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 08:42:51,381 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 08:43:44,409 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 08:43:44,423 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 08:43:44,486 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data created and retrived
+2025-03-20 08:43:44,519 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 08:43:44,519 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 08:43:44,521 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 08:43:44,521 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 08:43:44,521 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 08:55:51,715 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 08:55:51,724 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 08:55:51,724 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 08:56:11,905 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 08:56:11,914 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 08:56:11,914 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 08:56:27,052 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 08:56:27,061 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 08:56:27,061 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 08:56:43,095 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 08:56:43,103 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 08:56:43,103 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:03:44,767 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 09:03:44,775 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:03:44,775 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:04:34,061 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 09:04:34,070 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:04:34,070 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:04:40,858 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 09:04:40,865 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:04:40,865 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:05:01,921 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 09:05:01,929 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:05:01,929 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:05:17,917 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 09:05:17,925 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:05:17,925 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:11:48,760 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 09:11:48,768 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:11:48,768 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:11:48,772 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 09:11:48,772 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 09:11:56,267 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 09:11:56,276 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:11:56,276 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:11:56,280 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 09:11:56,280 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 09:11:56,364 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:11:56,364 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:11:56,364 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:13:36,527 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 09:13:36,534 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:13:36,534 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:13:36,539 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 09:13:36,539 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 09:13:36,624 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:13:36,624 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:13:36,624 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:14:03,528 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 09:14:03,536 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:14:03,536 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:14:03,540 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 09:14:03,540 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 09:14:03,625 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:14:03,625 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:14:03,625 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:16:02,545 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 09:16:02,553 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:16:02,553 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:16:02,556 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 09:16:02,556 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 09:16:02,639 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:16:02,639 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:16:02,639 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:19:14,700 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 09:19:14,707 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:19:14,707 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:19:14,711 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 09:19:14,711 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 09:19:42,782 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 09:19:42,789 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:19:42,789 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:19:42,793 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 09:19:42,793 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 09:19:42,876 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:19:42,876 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:19:42,876 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:51:16,396 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 09:51:16,403 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:51:16,403 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:51:16,407 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 09:51:16,407 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 09:51:16,436 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:51:16,436 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:51:16,436 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:54:06,672 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 09:54:06,682 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:54:06,682 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:54:06,686 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 09:54:06,686 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 09:54:06,771 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:54:06,771 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:54:06,771 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:54:38,630 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 09:54:38,638 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:54:38,638 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:54:38,642 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 09:54:38,642 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 09:54:38,729 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:54:38,729 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:54:38,729 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:55:23,166 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 09:55:23,175 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:55:23,175 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:55:23,178 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 09:55:23,178 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 09:55:23,264 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:55:23,264 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:55:23,264 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:55:49,592 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 09:55:49,601 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:55:49,601 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:55:49,605 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 09:55:49,605 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 09:55:49,691 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:55:49,691 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:55:49,691 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:56:13,061 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 09:56:13,068 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:56:13,068 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:56:13,072 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 09:56:13,072 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 09:56:13,157 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:56:13,157 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:56:13,157 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:56:51,650 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 09:56:51,657 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:56:51,657 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 09:56:51,661 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 09:56:51,661 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 09:56:51,745 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:56:51,745 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 09:56:51,745 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:25:30,134 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 10:25:30,143 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 10:25:30,143 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 10:25:30,146 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 10:25:30,146 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 10:25:30,233 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:25:30,233 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:25:30,233 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:25:53,171 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 10:25:53,178 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 10:25:53,178 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 10:25:53,184 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 10:25:53,184 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 10:25:53,267 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:25:53,267 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:25:53,267 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:26:09,100 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 10:26:09,109 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 10:26:09,109 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 10:26:09,113 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 10:26:09,113 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 10:26:09,211 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:26:09,211 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:26:09,211 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:30:42,490 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 10:30:42,498 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 10:30:42,498 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 10:30:42,501 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 10:30:42,501 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 10:30:42,588 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:30:42,588 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:30:42,588 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:30:53,303 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 10:30:53,310 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 10:30:53,310 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 10:30:53,314 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 10:30:53,314 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 10:30:53,401 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:30:53,401 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:30:53,401 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:50:38,903 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 10:50:38,911 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 10:50:38,911 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 10:50:38,914 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 10:50:38,914 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 10:50:38,999 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:50:38,999 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:50:38,999 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:51:15,642 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 10:51:15,648 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 10:51:15,648 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 10:51:15,652 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 10:51:15,652 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 10:51:15,737 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:51:15,737 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:51:15,737 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:51:27,884 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 10:51:27,892 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 10:51:27,892 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 10:51:27,896 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 10:51:27,896 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 10:51:27,981 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:51:27,981 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:51:27,981 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:52:11,884 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 10:52:11,891 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 10:52:11,891 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 10:52:11,894 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 10:52:11,894 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 10:52:11,979 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:52:11,979 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:52:11,979 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:53:56,611 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 10:53:56,619 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 10:53:56,619 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 10:53:56,623 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 10:53:56,623 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 10:53:56,708 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:53:56,708 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:53:56,708 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:53:56,708 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 10:53:56,708 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 10:53:56,708 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 10:55:14,241 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 10:55:14,249 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 10:55:14,249 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 10:55:14,252 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 10:55:14,252 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 10:55:14,282 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:55:14,282 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:55:14,282 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:55:14,282 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 10:55:14,282 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 10:55:14,282 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 10:56:06,105 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 10:56:06,113 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 10:56:06,113 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 10:56:06,117 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 10:56:06,117 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 10:56:06,149 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:56:06,149 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:56:06,149 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:56:06,150 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 10:56:06,150 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 10:56:06,150 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 10:56:15,742 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 10:56:15,750 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 10:56:15,750 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 10:56:15,755 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 10:56:15,755 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 10:56:15,788 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:56:15,788 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:56:15,788 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:56:15,788 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 10:56:15,788 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 10:56:15,788 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 10:57:03,718 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 10:57:03,726 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 10:57:03,726 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 10:57:03,730 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 10:57:03,730 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 10:57:03,761 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:57:03,761 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:57:03,761 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:57:03,761 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 10:57:03,761 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 10:57:03,761 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 10:57:28,354 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 10:57:28,361 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 10:57:28,361 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 10:57:28,365 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 10:57:28,365 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 10:57:28,395 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:57:28,395 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:57:28,395 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 10:57:28,395 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 10:57:28,395 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 10:57:28,395 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:09:53,708 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 11:09:53,716 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:09:53,716 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:09:53,721 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 11:09:53,721 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 11:09:53,753 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:09:53,753 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:09:53,753 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:09:53,753 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:09:53,753 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:09:53,753 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:10:58,138 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 11:10:58,147 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:10:58,147 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:10:58,151 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 11:10:58,151 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 11:10:58,182 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:10:58,182 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:10:58,182 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:10:58,183 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:10:58,183 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:10:58,183 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:11:10,508 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 11:11:10,515 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:11:10,515 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:11:10,520 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 11:11:10,520 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 11:11:10,551 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:11:10,551 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:11:10,551 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:11:10,551 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:11:10,551 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:11:10,551 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:11:40,415 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 11:11:40,422 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:11:40,422 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:11:40,426 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 11:11:40,426 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 11:11:40,458 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:11:40,458 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:11:40,458 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:11:40,458 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:11:40,458 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:11:40,458 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:13:27,174 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 11:13:27,181 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:13:27,181 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:13:27,185 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 11:13:27,185 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 11:13:27,216 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:13:27,216 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:13:27,216 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:13:27,216 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:13:27,216 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:13:27,216 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:13:27,217 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:13:27,217 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:13:27,217 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:13:27,217 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:13:27,217 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:13:27,217 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:13:27,217 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:13:27,217 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:13:43,596 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 11:13:43,604 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:13:43,604 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:13:43,607 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 11:13:43,607 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 11:13:43,638 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:13:43,638 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:13:43,638 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:13:43,638 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:13:43,638 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:13:43,638 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:14:02,853 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 11:14:02,860 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:14:02,860 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:14:02,865 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 11:14:02,865 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 11:14:02,897 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:14:02,897 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:14:02,897 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:14:02,898 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:14:02,898 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:14:02,898 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:14:47,943 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 11:14:47,951 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:14:47,951 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:14:47,954 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 11:14:47,954 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 11:14:47,987 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:14:47,987 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:14:47,987 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:14:47,988 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:14:47,988 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:14:47,988 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:14:47,988 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 11:14:47,988 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 11:14:47,988 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 11:14:47,988 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:14:47,988 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:14:47,988 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:15:39,172 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 11:15:39,179 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:15:39,179 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:15:39,183 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 11:15:39,183 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 11:15:39,216 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:15:39,216 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:15:39,216 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:15:39,216 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 11:15:39,216 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 11:15:39,216 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 11:15:39,216 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:15:39,216 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:15:39,216 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:16:08,463 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 11:16:08,469 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:16:08,469 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:16:08,474 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 11:16:08,474 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 11:16:08,506 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:16:08,506 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:16:08,506 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:16:08,506 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:16:08,506 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:16:08,506 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:16:15,994 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 11:16:16,001 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:16:16,001 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:16:16,006 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 11:16:16,006 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 11:16:16,037 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:16:16,037 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:16:16,037 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:16:16,039 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:16:16,039 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:16:16,039 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:20:07,974 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 11:20:07,981 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:20:07,981 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:20:07,985 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 11:20:07,985 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 11:20:08,017 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:20:08,017 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:20:08,017 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:20:08,017 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:20:08,017 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:20:08,017 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:20:08,044 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:20:08,044 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:20:08,044 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:20:08,044 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:20:08,045 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 11:20:08,045 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 11:20:08,045 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 11:20:08,045 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 11:20:08,045 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:20:08,045 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:20:08,045 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:20:08,045 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:20:56,320 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 11:20:56,328 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:20:56,328 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:20:56,332 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 11:20:56,332 - INFO - [log] - milvus_init - milvusdb collection ml_pdf_data already exists
+2025-03-20 11:20:56,363 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:20:56,363 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:20:56,363 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 11:20:56,363 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:20:56,363 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:20:56,363 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:20:56,390 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:20:56,390 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:20:56,390 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:20:56,390 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:20:56,390 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 11:20:56,390 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 11:20:56,390 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 11:20:56,390 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 11:20:56,391 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:20:56,391 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:20:56,391 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:20:56,391 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:57:01,372 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:57:01,372 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:57:01,589 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:57:01,589 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:57:01,589 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 11:57:01,589 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 11:57:01,589 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:57:01,589 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:57:01,784 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 11:57:01,784 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 11:57:01,784 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 11:57:56,177 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:57:56,177 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:57:56,393 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:57:56,393 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:57:56,393 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 11:57:56,393 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 11:57:56,393 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:57:56,393 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:57:56,585 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 11:57:56,585 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 11:57:56,585 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 11:59:36,761 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:59:36,762 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:59:36,988 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:59:36,988 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 11:59:36,988 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 11:59:36,988 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 11:59:36,989 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 11:59:36,989 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:01:02,704 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:01:02,731 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:01:02,731 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:01:02,732 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:01:02,732 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:01:49,302 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:01:49,303 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:01:49,516 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:01:49,516 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:01:49,517 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:01:49,517 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:01:49,517 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:01:49,517 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:02:58,210 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:02:58,210 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:02:58,237 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:02:58,237 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:02:58,237 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:02:58,237 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:02:58,237 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:02:58,237 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:05:34,053 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:05:34,054 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:06:39,979 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:06:39,979 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:06:40,007 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:06:40,007 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:06:40,007 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:06:40,007 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:06:40,008 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:06:40,008 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:07:13,858 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:07:13,859 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:07:13,895 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:07:13,895 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:07:13,895 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:07:13,895 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:07:13,896 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:07:13,896 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:07:30,811 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:07:30,811 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:07:30,836 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:07:30,836 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:07:30,836 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:07:30,836 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:07:30,836 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:07:30,836 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:07:31,029 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 12:07:31,029 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 12:07:31,029 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 12:10:54,669 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:10:54,669 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:10:54,694 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:10:54,694 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:10:54,694 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:10:54,694 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:10:54,694 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:10:54,694 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:19:44,602 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:19:44,604 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:19:44,630 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:19:44,630 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:19:44,630 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:19:44,630 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:19:44,630 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:19:44,630 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:20:10,201 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:20:10,201 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:20:10,228 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:20:10,228 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:20:10,228 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:20:10,228 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:20:10,228 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:20:10,228 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:22:45,244 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:22:45,245 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:22:45,271 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:22:45,271 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:22:45,271 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:22:45,271 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:22:45,271 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:22:45,271 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:23:38,318 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:23:38,517 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:23:38,517 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:23:38,517 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:23:38,517 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:24:00,271 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:24:00,455 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:24:00,455 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:24:00,455 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:24:00,455 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:25:28,197 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:25:28,198 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:25:28,242 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:25:28,242 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:25:28,243 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:25:28,243 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:25:28,243 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:25:28,243 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:29:12,889 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:29:12,890 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:29:12,916 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:29:12,916 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:29:12,916 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:29:12,916 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:29:12,916 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:29:12,916 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:29:13,072 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 12:29:13,072 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 12:29:13,072 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 12:29:58,563 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:29:58,563 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:29:58,591 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:29:58,591 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:29:58,591 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:29:58,591 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:29:58,591 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:29:58,591 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:30:52,925 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:30:52,925 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:30:52,952 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:30:52,952 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:30:52,952 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:30:52,952 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:30:52,952 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:30:52,952 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:30:53,113 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 12:30:53,113 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 12:30:53,113 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 12:32:14,925 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:32:14,926 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:32:14,953 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:32:14,953 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:32:14,953 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:32:14,953 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:32:14,954 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:32:14,954 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:33:02,272 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:33:02,272 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:33:02,299 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:33:02,299 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:33:02,300 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:33:02,300 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:33:02,300 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:33:02,300 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:33:20,172 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:33:20,172 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:33:20,207 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:33:20,207 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:33:20,207 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:33:20,207 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:33:20,208 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:33:20,208 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:35:19,346 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:35:19,346 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:35:19,372 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:35:19,372 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:35:19,372 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:35:19,372 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:35:19,372 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:35:19,372 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:35:59,296 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:35:59,297 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:35:59,324 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:35:59,324 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:35:59,324 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:35:59,324 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:35:59,324 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:35:59,324 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:36:15,052 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:36:15,052 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:36:15,085 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:36:15,085 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:36:15,085 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:36:15,085 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:36:15,085 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:36:15,085 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:36:30,363 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:36:30,363 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:36:30,389 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:36:30,389 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:36:30,389 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:36:30,389 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:36:30,390 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:36:30,390 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:39:36,260 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-20 12:39:54,446 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:39:54,446 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:39:54,472 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:39:54,472 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:39:54,472 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:39:54,472 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:39:54,472 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:39:54,472 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:40:15,766 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:40:15,766 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:40:15,794 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:40:15,794 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:40:15,794 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:40:15,794 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:40:15,794 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:40:15,794 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:42:07,718 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:42:07,718 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:42:07,744 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:42:07,744 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:42:07,744 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:42:07,744 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:42:07,744 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:42:07,744 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:42:42,923 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:42:42,923 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:42:42,949 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:42:42,949 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:42:42,949 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:42:42,949 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:42:42,949 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:42:42,949 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:43:42,754 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:43:42,755 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:43:42,786 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:43:42,786 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:43:42,786 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:43:42,786 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:43:42,786 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:43:42,786 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:44:49,239 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:44:49,240 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:44:49,267 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:44:49,267 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:44:49,267 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:44:49,267 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:44:49,267 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:44:49,267 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:45:47,445 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:45:47,445 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:45:47,470 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:45:47,470 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:45:47,470 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:45:47,470 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:45:47,470 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:45:47,470 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:46:21,836 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:46:21,836 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:46:21,863 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:46:21,863 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:46:21,863 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:46:21,863 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:46:21,863 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:46:21,863 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:47:47,409 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:47:47,410 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:47:47,435 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:47:47,435 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:47:47,435 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:47:47,435 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:47:47,435 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:47:47,435 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:49:24,974 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:49:24,975 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:49:25,001 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:49:25,001 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:49:25,001 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:49:25,001 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:49:25,001 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:49:25,001 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:49:44,628 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:49:44,629 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:49:44,655 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:49:44,655 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:49:44,656 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:49:44,656 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:49:44,656 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:49:44,656 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:50:35,940 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 12:50:35,940 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:50:35,967 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:50:35,967 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 12:50:35,967 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:50:35,967 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 12:50:35,967 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 12:50:35,967 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 15:11:52,397 - INFO - [log] - milvus_init - connection already exists and working 
+2025-03-20 15:11:52,397 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 15:11:52,423 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 15:11:52,423 - INFO - [log] - milvus_init - new milvus connection extablished  
+2025-03-20 15:11:52,423 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 15:11:52,423 - INFO - [log] - milvus_init - Deleting the collection.
+2025-03-20 15:11:52,424 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
+2025-03-20 15:11:52,424 - INFO - [log] - milvus_init - milvusdb collection test_collection already exists
