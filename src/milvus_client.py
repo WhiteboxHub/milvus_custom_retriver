@@ -45,7 +45,6 @@ def milvus_initialization(collection_name = None,drop_collection = False):
                         loggers.log(f'milvusdb collection {collection_name} already exists','milvus_init')
                         return _milvus_collection
                     else:
-                        print("----------------collection does not have has --------------------")
                         Collection(collection_name,schema)
                         _milvus_collection = True
                         loggers.log(f'milvusdb collection {collection_name} created and retrived','milvus_init')
@@ -98,30 +97,33 @@ def milvus_initialization(collection_name = None,drop_collection = False):
 def milvus_insert_data(file_name : str,doc : str,doc_embeding):
     logs = logger.Logger()
     try:
+        print(connections.has_connection('default'),"-"*200)
+        connections.disconnect('default')
 
+        connections.connect('default',host=os.getenv("MILVUS_HOST","localhost"),port=os.getenv("MILVUS_PORT","19530"))
+        print(connections.has_connection('default'),"-"*200)
+        # print(connections.has_connection('default'),"-"*200)
         data = [{
             "filename":file_name,
             "text":doc,
             "embeddings":doc_embeding
         }]
-
+        if not connections.has_connection('default'):
+            raise RuntimeError("connection error occured on run time")
         collection_name= os.getenv("DB_COLLECTION_NAME")
         if not collection_name:
             raise ValueError("DB_COLLECTION_NAME is not set in environment variables.")
-        # connections.connect(alias='default',host=os.getenv("MILVUS_HOST","localhost"),port=os.getenv("MILVUS_PORT","19530"))
-        connections.connect('default',host=os.getenv("MILVUS_HOST","localhost"),port=os.getenv("MILVUS_PORT","19530"))
-        print(connections.list_connections()) 
-        if utility.has_collection(collection_name):
-            client = Collection(collection_name)
-            res = client.insert(data)
+        
+        if utility.has_collection(collection_name=collection_name):
+            collection = Collection(collection_name)
+            res = collection.insert(data)
             logs.log("inserted in to the collection","milvus_insert")
             return res 
 
-        else:
-            raise Exception
+        
     except Exception as e:
         logs.error(f"error occured while instering {e}","milvus_insert")
-        raise Exception
+        raise e
 
 
 
