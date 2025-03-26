@@ -2067,3 +2067,125 @@
 2025-03-21 15:17:45,101 - INFO - [log] - milvus_insert - inserted in to the collection
 2025-03-21 15:17:45,101 - INFO - [log] - milvus_insert - inserted in to the collection
 2025-03-21 15:17:45,101 - INFO - [log] - milvus_insert - inserted in to the collection
+2025-03-24 12:08:22,562 - INFO - [log] - initilize_collection - establising a MILVUS Connection
+2025-03-24 12:08:22,685 - ERROR - [error] - milvus_init - error while checking milvus connection CollectionSchema.add_field() missing 2 required positional arguments: 'field_name' and 'datatype'
+2025-03-24 12:09:30,886 - INFO - [log] - initilize_collection - establising a MILVUS Connection
+2025-03-24 12:09:30,980 - ERROR - [error] - milvus_init - error while checking milvus connection <MilvusException: (code=65535, message=create duplicate collection with different parameters, collection: ml_pdf_data)>
+2025-03-24 12:10:47,813 - INFO - [log] - initilize_collection - establising a MILVUS Connection
+2025-03-24 12:10:49,012 - INFO - [log] - initilize_collection - create a collection ml_pdf_data with schema and index_params
+2025-03-24 13:32:57,338 - ERROR - [error] - milvus_insert_data_courps - error while inserting milvus data <DataNotMatchException: (code=1, message=The Input data type is inconsistent with defined schema, please check it.)>
+2025-03-24 13:33:30,889 - INFO - [log] - initilize_collection - establising a MILVUS Connection
+2025-03-24 13:33:30,889 - INFO - [log] - initilize_collection - establising a MILVUS Connection
+2025-03-24 13:33:32,223 - INFO - [log] - initilize_collection - create a collection ml_pdf_data with schema and index_params
+2025-03-24 13:33:32,223 - INFO - [log] - initilize_collection - create a collection ml_pdf_data with schema and index_params
+2025-03-24 13:33:39,058 - ERROR - [error] - milvus_insert_data_courps - error while inserting milvus data <DataNotMatchException: (code=1, message=The Input data type is inconsistent with defined schema, please check it.)>
+2025-03-24 13:33:39,058 - ERROR - [error] - milvus_insert_data_courps - error while inserting milvus data <DataNotMatchException: (code=1, message=The Input data type is inconsistent with defined schema, please check it.)>
+2025-03-24 13:36:42,371 - INFO - [log] - initilize_collection - establising a MILVUS Connection
+2025-03-24 13:36:42,432 - ERROR - [error] - milvus_init - error while checking milvus connection <PrimaryKeyException: (code=1, message=Schema must have a primary key field.)>
+2025-03-24 13:36:45,741 - INFO - [log] - initilize_collection - establising a MILVUS Connection
+2025-03-24 13:36:45,741 - INFO - [log] - initilize_collection - establising a MILVUS Connection
+2025-03-24 13:36:45,752 - ERROR - [error] - milvus_init - error while checking milvus connection <PrimaryKeyException: (code=1, message=Schema must have a primary key field.)>
+2025-03-24 13:36:45,752 - ERROR - [error] - milvus_init - error while checking milvus connection <PrimaryKeyException: (code=1, message=Schema must have a primary key field.)>
+2025-03-24 13:37:21,768 - INFO - [log] - initilize_collection - establising a MILVUS Connection
+2025-03-24 13:37:21,768 - INFO - [log] - initilize_collection - establising a MILVUS Connection
+2025-03-24 13:37:21,768 - INFO - [log] - initilize_collection - establising a MILVUS Connection
+2025-03-24 13:37:21,777 - ERROR - [error] - milvus_init - error while checking milvus connection <PrimaryKeyException: (code=1, message=Schema must have a primary key field.)>
+2025-03-24 13:37:21,777 - ERROR - [error] - milvus_init - error while checking milvus connection <PrimaryKeyException: (code=1, message=Schema must have a primary key field.)>
+2025-03-24 13:37:21,777 - ERROR - [error] - milvus_init - error while checking milvus connection <PrimaryKeyException: (code=1, message=Schema must have a primary key field.)>
+2025-03-24 13:37:33,297 - INFO - [log] - initilize_collection - establising a MILVUS Connection
+2025-03-24 13:37:34,650 - INFO - [log] - initilize_collection - create a collection ml_pdf_data with schema and index_params
+2025-03-24 13:37:48,236 - ERROR - [error] - milvus_insert_data_courps - error while inserting milvus data not enough values to unpack (expected 3, got 2)
+2025-03-24 13:40:02,305 - INFO - [log] - initilize_collection - establising a MILVUS Connection
+2025-03-24 13:40:03,621 - INFO - [log] - initilize_collection - create a collection ml_pdf_data with schema and index_params
+2025-03-24 13:40:17,464 - ERROR - [error] - milvus_insert_data_courps - error while inserting milvus data tuple index out of range
+2025-03-25 07:55:51,990 - INFO - [log] - initilize_collection - establising a MILVUS Connection
+2025-03-25 07:55:53,166 - INFO - [log] - initilize_collection - create a collection ml_pdf_data with schema and index_params
+2025-03-25 07:56:41,557 - ERROR - [error] - milvus_insert_data_courps - error while inserting milvus data <MilvusException: (code=65535, message=the length(1152) of float data should divide the dim(768))>
+2025-03-25 07:58:14,408 - INFO - [log] - initilize_collection - establising a MILVUS Connection
+2025-03-25 07:58:14,408 - INFO - [log] - initilize_collection - establising a MILVUS Connection
+2025-03-25 07:58:15,733 - INFO - [log] - initilize_collection - create a collection ml_pdf_data with schema and index_params
+2025-03-25 07:58:15,733 - INFO - [log] - initilize_collection - create a collection ml_pdf_data with schema and index_params
+2025-03-25 07:58:23,141 - ERROR - [error] - milvus_insert_data_courps - error while inserting milvus data <MilvusException: (code=65535, message=the length(1152) of float data should divide the dim(768))>
+2025-03-25 07:58:23,141 - ERROR - [error] - milvus_insert_data_courps - error while inserting milvus data <MilvusException: (code=65535, message=the length(1152) of float data should divide the dim(768))>
+2025-03-25 07:58:37,593 - INFO - [log] - initilize_collection - establising a MILVUS Connection
+2025-03-25 07:58:38,733 - INFO - [log] - initilize_collection - create a collection ml_pdf_data with schema and index_params
+2025-03-25 09:27:11,874 - INFO - [log] - initilize_collection - establising a MILVUS Connection
+2025-03-25 09:27:13,030 - INFO - [log] - initilize_collection - create a collection ml_pdf_data with schema and index_params
+2025-03-25 09:28:28,021 - INFO - [log] - Client_connection - Milvus client connection Request
+2025-03-25 09:29:28,827 - INFO - [log] - initilize_collection - establising a MILVUS Connection
+2025-03-25 09:29:30,170 - INFO - [log] - initilize_collection - create a collection ml_pdf_data with schema and index_params
+2025-03-25 09:29:51,398 - INFO - [log] - Client_connection - Milvus client connection Request
+2025-03-25 09:30:50,594 - INFO - [log] - Client_connection - Milvus client connection Request
+2025-03-25 09:33:09,647 - INFO - [log] - Client_connection - Milvus client connection Request
+2025-03-25 14:02:37,597 - INFO - [log] - initilize_collection - establising a MILVUS Connection
+2025-03-25 14:02:37,597 - INFO - [log] - initilize_collection - establising a MILVUS Connection
+2025-03-25 14:02:38,727 - INFO - [log] - initilize_collection - create a collection ml_pdf_data with schema and index_params
+2025-03-25 14:02:38,727 - INFO - [log] - initilize_collection - create a collection ml_pdf_data with schema and index_params
+2025-03-25 14:03:25,963 - INFO - [log] - initilize_collection - establising a MILVUS Connection
+2025-03-25 14:03:25,963 - INFO - [log] - initilize_collection - establising a MILVUS Connection
+2025-03-25 14:03:25,963 - INFO - [log] - initilize_collection - establising a MILVUS Connection
+2025-03-25 14:03:27,066 - INFO - [log] - initilize_collection - create a collection ml_pdf_data with schema and index_params
+2025-03-25 14:03:27,066 - INFO - [log] - initilize_collection - create a collection ml_pdf_data with schema and index_params
+2025-03-25 14:03:27,066 - INFO - [log] - initilize_collection - create a collection ml_pdf_data with schema and index_params
+2025-03-25 14:05:07,455 - ERROR - [error] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:05:07,455 - ERROR - [error] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:05:07,455 - ERROR - [error] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:05:09,913 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:05:09,913 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:05:09,913 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:06:58,149 - ERROR - [error] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:06:58,149 - ERROR - [error] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:06:58,149 - ERROR - [error] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:07:00,686 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:07:00,686 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:07:00,686 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:07:27,480 - INFO - [log] - initilize_collection - establising a MILVUS Connection
+2025-03-25 14:07:27,480 - INFO - [log] - initilize_collection - establising a MILVUS Connection
+2025-03-25 14:07:28,431 - INFO - [log] - initilize_collection - create a collection ml_pdf_data with schema and index_params
+2025-03-25 14:07:28,431 - INFO - [log] - initilize_collection - create a collection ml_pdf_data with schema and index_params
+2025-03-25 14:07:37,662 - ERROR - [error] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:07:37,662 - ERROR - [error] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:07:40,026 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:07:40,026 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:09:54,388 - INFO - [log] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:09:54,388 - INFO - [log] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:09:58,844 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:09:58,844 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:14:43,717 - INFO - [log] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:14:43,717 - INFO - [log] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:14:47,715 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:14:47,715 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:16:07,414 - INFO - [log] - initilize_collection - establising a MILVUS Connection
+2025-03-25 14:16:07,414 - INFO - [log] - initilize_collection - establising a MILVUS Connection
+2025-03-25 14:16:08,908 - INFO - [log] - initilize_collection - create a collection ml_pdf_data with schema and index_params
+2025-03-25 14:16:08,908 - INFO - [log] - initilize_collection - create a collection ml_pdf_data with schema and index_params
+2025-03-25 14:16:13,514 - INFO - [log] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:16:13,514 - INFO - [log] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:16:16,189 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:16:16,189 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:17:41,107 - INFO - [log] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:17:41,107 - INFO - [log] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:17:45,268 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:17:45,268 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:18:56,460 - INFO - [log] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:18:56,460 - INFO - [log] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:19:00,799 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:19:00,799 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:19:41,141 - INFO - [log] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:19:41,141 - INFO - [log] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:19:41,141 - INFO - [log] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:19:43,438 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:19:43,438 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:19:43,438 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:21:30,966 - INFO - [log] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:21:30,966 - INFO - [log] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:21:35,409 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:21:35,409 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:22:16,174 - INFO - [log] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:22:16,174 - INFO - [log] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:22:19,795 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:22:19,795 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:24:59,446 - INFO - [log] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:24:59,446 - INFO - [log] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:25:57,986 - INFO - [log] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:25:57,986 - INFO - [log] - milvus_similarity_search - doing similarity search milvus data.

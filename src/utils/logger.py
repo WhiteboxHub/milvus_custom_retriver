@@ -3,7 +3,8 @@ import os
 from datetime import datetime
 
 class Logger:
-    def __init__(self, log_dir="logs"):
+    def __init__(self, log_dir=os.path.abspath(os.path.join(os.getcwd(),"../logs"))): 
+
         self.log_dir = log_dir
         os.makedirs(self.log_dir, exist_ok=True)
         

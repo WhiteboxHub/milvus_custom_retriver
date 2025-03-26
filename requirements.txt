@@ -7,3 +7,5 @@ sentence_transformers=3.4.1
 PyYAML=6.0.2
 pytest=8.3.5
 pytest-mock=3.14.0
+PyPDF2=3.0.1
+nltk=3.9.1

@@ -2,9 +2,8 @@
 from sentence_transformers import SentenceTransformer
 from typing import Annotated
 from langchain_text_splitters import RecursiveCharacterTextSplitter,CharacterTextSplitter
-import re
-import string
-from utils.logger import Logger
+from src.utils.logger import Logger
+from nltk.tokenize import word_tokenize
 # embeeding model function
 
 _logger = Logger()
@@ -47,13 +46,36 @@ def Text_splitter(text: Annotated[str,"The text that needs to be chunked."],
     return text_splitter.split_text(text)
     
 
+
+def sliding_window_chunking(text: Annotated[str,"The text that needs to be chunked."],
+                  chunk_size : Annotated[int,"The size of each chunk."], 
+                  chunk_overlap: Annotated[int,"the precent of chunk to overlap."] = 0.2):
     
-        
+    words = word_tokenize(text)
+    overlap = chunk_size - int(chunk_size*chunk_overlap)
+
+    chunks = []
+    start = 0
+    while start < len(words):
+        end = min(start + chunk_size,len(words))
+        chunk = words[start:end]
+
+        chunks.append(" ".join(chunk))
+        start += chunk_size - overlap
+
+        if end == len(words):
+            break
+    
+    return chunks
 
 
 
-def create_embeddings(text_data : Annotated[str, "The Text Data of pdf from data folder"],
-                      chunk_size : int = 512
+
+
+
+def create_embeddings(  file_name : Annotated[str,"filename of the Text Data"],
+                        text_data : Annotated[str, "The Text Data of pdf from data folder"],
+                        chunk_size : int = 512
                       ):
     """Create embeddings for the given text data."""
 
@@ -65,9 +87,10 @@ def create_embeddings(text_data : Annotated[str, "The Text Data of pdf from data
         _logger.info(f"Split text into {len(text_chunks)} chunks","create_embedding")
         embed_model = Embedding_model()
         print(text_chunks)
-        embed_text__chunks = embed_model.embed_docs(text_chunks) 
+        embed_text__chunks = embed_model.embed_docs(text_chunks)
+        file_names = [file_name for i in range(len(text_chunks))] 
         _logger.info(f"Generated Embedding for the model","create_embedding")
-        return list(zip(text_chunks,embed_text__chunks))
+        return list(zip(file_names,embed_text__chunks,text_chunks))
 
     except Exception as e:
         _logger.error(f"error created while creating embeddings {e}","create_embeddings.py")
