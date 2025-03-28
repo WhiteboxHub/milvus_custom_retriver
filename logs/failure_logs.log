@@ -10,3 +10,456 @@
 2025-03-12 08:28:28,322 - ERROR - [error] - milvus_init - error while checking milvus connection <MilvusException: (code=2, message=Fail connecting to server on localhost:19530, illegal connection params or server unavailable)>
 2025-03-12 08:28:28,323 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
 2025-03-12 08:28:28,323 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 14:43:47,522 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 14:45:33,326 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 14:47:30,633 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 14:49:45,042 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 14:51:23,530 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 14:51:51,479 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 14:51:59,108 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 14:53:49,329 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 14:55:52,373 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 14:58:04,995 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 14:58:23,584 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 14:58:49,104 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:00:13,171 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:00:59,461 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:01:32,292 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:01:56,832 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:19:44,275 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:20:12,737 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:20:53,589 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:27:26,416 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:27:42,940 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:30:48,039 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:35:09,202 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:37:49,870 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:41:06,833 - ERROR - [error] - milvus_init - error while checking milvus connection MilvusClient.__init__() got multiple values for argument 'uri'
+2025-03-19 15:41:06,834 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:41:48,038 - ERROR - [error] - milvus_init - error while checking milvus connection <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:41:48,039 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:42:43,131 - ERROR - [error] - milvus_init - error while checking milvus connection <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:42:43,131 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:43:46,879 - ERROR - [error] - milvus_init - error while checking milvus connection <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:43:46,879 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 15:44:13,117 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 16:38:14,908 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 16:39:53,449 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 16:40:34,632 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 16:41:05,241 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-19 16:43:15,618 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 08:16:56,692 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 08:17:51,690 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 08:18:31,542 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 08:18:42,938 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 08:19:15,370 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 08:21:01,027 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 08:21:39,830 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 08:22:13,704 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 08:23:53,493 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 08:24:24,712 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 08:25:12,479 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 08:25:25,239 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 08:28:01,919 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 08:30:33,681 - ERROR - [error] - milvus_init - milvus db get collection error  <MilvusException: (code=700, message=index not found[collection=test])>
+2025-03-20 08:34:57,071 - ERROR - [error] - milvus_init - milvus db get collection error  <MilvusException: (code=700, message=index not found[collection=test])>
+2025-03-20 08:36:49,188 - ERROR - [error] - milvus_init - milvus db get collection error  <MilvusException: (code=700, message=index not found[collection=test])>
+2025-03-20 08:38:53,491 - ERROR - [error] - milvus_init - milvus db get collection error  module 'pymilvus.orm.utility' has no attribute 'load_collection'
+2025-03-20 08:39:13,349 - ERROR - [error] - milvus_init - milvus db get collection error  module 'pymilvus.orm.utility' has no attribute 'load_collection'
+2025-03-20 08:55:51,737 - ERROR - [error] - milvus_init - milvus db get collection error  module 'pymilvus.orm.utility' has no attribute 'load_collection'
+2025-03-20 08:55:51,737 - ERROR - [error] - milvus_init - milvus db get collection error  module 'pymilvus.orm.utility' has no attribute 'load_collection'
+2025-03-20 08:56:11,928 - ERROR - [error] - milvus_init - milvus db get collection error  module 'pymilvus.orm.utility' has no attribute 'load_collection'
+2025-03-20 08:56:11,928 - ERROR - [error] - milvus_init - milvus db get collection error  module 'pymilvus.orm.utility' has no attribute 'load_collection'
+2025-03-20 08:56:27,073 - ERROR - [error] - milvus_init - milvus db get collection error  module 'pymilvus.orm.utility' has no attribute 'load_collection'
+2025-03-20 08:56:27,073 - ERROR - [error] - milvus_init - milvus db get collection error  module 'pymilvus.orm.utility' has no attribute 'load_collection'
+2025-03-20 08:56:43,114 - ERROR - [error] - milvus_init - milvus db get collection error  module 'pymilvus.orm.utility' has no attribute 'load_collection'
+2025-03-20 08:56:43,114 - ERROR - [error] - milvus_init - milvus db get collection error  module 'pymilvus.orm.utility' has no attribute 'load_collection'
+2025-03-20 09:03:44,792 - ERROR - [error] - milvus_init - milvus db get collection error  <MilvusException: (code=700, message=index not found[collection=ml_pdf_data])>
+2025-03-20 09:03:44,792 - ERROR - [error] - milvus_init - milvus db get collection error  <MilvusException: (code=700, message=index not found[collection=ml_pdf_data])>
+2025-03-20 09:04:34,086 - ERROR - [error] - milvus_init - milvus db get collection error  <MilvusException: (code=700, message=index not found[collection=ml_pdf_data])>
+2025-03-20 09:04:34,086 - ERROR - [error] - milvus_init - milvus db get collection error  <MilvusException: (code=700, message=index not found[collection=ml_pdf_data])>
+2025-03-20 09:04:40,881 - ERROR - [error] - milvus_init - milvus db get collection error  <MilvusException: (code=700, message=index not found[collection=ml_pdf_data])>
+2025-03-20 09:04:40,881 - ERROR - [error] - milvus_init - milvus db get collection error  <MilvusException: (code=700, message=index not found[collection=ml_pdf_data])>
+2025-03-20 09:05:01,945 - ERROR - [error] - milvus_init - milvus db get collection error  <MilvusException: (code=700, message=index not found[collection=ml_pdf_data])>
+2025-03-20 09:05:01,945 - ERROR - [error] - milvus_init - milvus db get collection error  <MilvusException: (code=700, message=index not found[collection=ml_pdf_data])>
+2025-03-20 09:05:17,941 - ERROR - [error] - milvus_init - milvus db get collection error  <MilvusException: (code=700, message=index not found[collection=ml_pdf_data])>
+2025-03-20 09:05:17,941 - ERROR - [error] - milvus_init - milvus db get collection error  <MilvusException: (code=700, message=index not found[collection=ml_pdf_data])>
+2025-03-20 11:14:47,987 - ERROR - [error] - milvus_init - error while checking milvus connection local variable 'schema' referenced before assignment
+2025-03-20 11:14:47,987 - ERROR - [error] - milvus_init - error while checking milvus connection local variable 'schema' referenced before assignment
+2025-03-20 11:14:47,987 - ERROR - [error] - milvus_init - error while checking milvus connection local variable 'schema' referenced before assignment
+2025-03-20 12:10:54,845 - ERROR - [error] - milvus_insert - error occured while instering <DescribeCollectionException: (code=100, message=can't find collection[database=default][collection=test_collection])>
+2025-03-20 12:10:54,845 - ERROR - [error] - milvus_insert - error occured while instering <DescribeCollectionException: (code=100, message=can't find collection[database=default][collection=test_collection])>
+2025-03-20 12:10:54,845 - ERROR - [error] - milvus_insert - error occured while instering <DescribeCollectionException: (code=100, message=can't find collection[database=default][collection=test_collection])>
+2025-03-20 12:20:10,359 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:20:10,359 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:20:10,359 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:22:45,399 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:22:45,399 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:22:45,399 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:23:38,319 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:23:38,518 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:23:38,518 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:23:38,660 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:23:38,660 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:23:38,660 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:24:00,271 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:24:00,457 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:24:00,457 - ERROR - [error] - milvus_init - milvus db get collection error  <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:24:00,637 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:24:00,637 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:24:00,637 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:25:28,396 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:25:28,396 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:25:28,396 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:29:58,779 - ERROR - [error] - milvus_insert - error occured while instering name 'client' is not defined
+2025-03-20 12:29:58,779 - ERROR - [error] - milvus_insert - error occured while instering name 'client' is not defined
+2025-03-20 12:29:58,779 - ERROR - [error] - milvus_insert - error occured while instering name 'client' is not defined
+2025-03-20 12:32:15,016 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:32:15,016 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:32:15,016 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:33:02,367 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:33:02,367 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:33:02,367 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:33:20,286 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:33:20,286 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:33:20,286 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:35:19,437 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:35:19,437 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:35:19,437 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:35:59,385 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:35:59,385 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:35:59,385 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:36:15,145 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:36:15,145 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:36:15,145 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:36:30,449 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:36:30,449 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:36:30,449 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:39:54,532 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:39:54,532 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:39:54,532 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:40:15,858 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:40:15,858 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:40:15,858 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:42:07,804 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:42:07,804 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:42:07,804 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:42:43,010 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:42:43,010 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:42:43,010 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:43:42,860 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:43:42,860 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:43:42,860 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:44:49,328 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:44:49,328 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:44:49,328 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:45:47,530 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:45:47,530 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:45:47,530 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:46:21,925 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:46:21,925 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:46:21,925 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:47:48,507 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:47:48,507 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:47:48,507 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:49:25,261 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:49:25,261 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:49:25,261 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:49:44,716 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:49:44,716 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:49:44,716 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:50:36,027 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:50:36,027 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 12:50:36,027 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 15:11:52,485 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 15:11:52,485 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-20 15:11:52,485 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 07:01:38,444 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 07:01:38,444 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 07:01:38,444 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 07:02:28,490 - ERROR - [error] - milvus_insert - error occured while instering Connections.has_connection() missing 1 required positional argument: 'alias'
+2025-03-21 07:02:28,490 - ERROR - [error] - milvus_insert - error occured while instering Connections.has_connection() missing 1 required positional argument: 'alias'
+2025-03-21 07:02:28,490 - ERROR - [error] - milvus_insert - error occured while instering Connections.has_connection() missing 1 required positional argument: 'alias'
+2025-03-21 07:03:22,734 - ERROR - [error] - milvus_insert - error occured while instering Connections.has_connection() missing 1 required positional argument: 'alias'
+2025-03-21 07:03:22,734 - ERROR - [error] - milvus_insert - error occured while instering Connections.has_connection() missing 1 required positional argument: 'alias'
+2025-03-21 07:03:22,734 - ERROR - [error] - milvus_insert - error occured while instering Connections.has_connection() missing 1 required positional argument: 'alias'
+2025-03-21 07:03:35,738 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 07:03:35,738 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 07:03:35,738 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 07:06:47,477 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 07:06:47,477 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 07:06:47,477 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 07:07:48,612 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 07:07:48,612 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 07:07:48,612 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 07:17:45,942 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 07:17:45,942 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 07:17:45,942 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 13:29:41,424 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 13:29:41,424 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 13:29:41,424 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 13:33:21,077 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 13:33:21,077 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 13:33:21,077 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 13:33:42,103 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 13:33:42,103 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 13:33:42,103 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:02:01,471 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:02:01,471 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:02:01,471 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:02:58,837 - ERROR - [error] - milvus_insert - error occured while instering Connections.has_connection() missing 1 required positional argument: 'alias'
+2025-03-21 14:02:58,837 - ERROR - [error] - milvus_insert - error occured while instering Connections.has_connection() missing 1 required positional argument: 'alias'
+2025-03-21 14:02:58,837 - ERROR - [error] - milvus_insert - error occured while instering Connections.has_connection() missing 1 required positional argument: 'alias'
+2025-03-21 14:03:15,932 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:03:15,932 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:03:15,932 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:03:30,386 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:03:30,386 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:03:30,386 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:07:11,165 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:07:11,165 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:07:11,165 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:07:34,608 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:07:34,608 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:07:34,608 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:12:14,962 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:12:14,962 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:12:14,962 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:19:04,421 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:19:04,421 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:19:04,421 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:19:39,062 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:19:39,062 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:19:39,062 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:20:12,939 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:20:12,939 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:20:12,939 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:21:27,178 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:21:27,178 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:21:27,178 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:21:43,401 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:21:43,401 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:21:43,401 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:22:11,149 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:22:11,149 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:22:11,149 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:22:52,034 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:22:52,034 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:22:52,034 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:28:26,583 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:28:26,583 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:28:26,583 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:29:06,510 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:29:06,510 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:29:06,510 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:35:38,945 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:36:28,605 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:36:28,605 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:36:28,605 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:36:38,240 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:36:38,240 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:36:38,240 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:37:03,741 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:37:03,741 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:37:03,741 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:39:09,105 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:39:09,105 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:39:09,105 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:41:11,516 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:41:11,516 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:41:11,516 - ERROR - [error] - milvus_insert - error occured while instering <ConnectionNotExistException: (code=1, message=should create connection first.)>
+2025-03-21 14:45:13,201 - ERROR - [error] - milvus_insert - error occured while instering 
+2025-03-21 14:45:13,201 - ERROR - [error] - milvus_insert - error occured while instering 
+2025-03-21 14:45:13,201 - ERROR - [error] - milvus_insert - error occured while instering 
+2025-03-21 14:46:13,868 - ERROR - [error] - milvus_insert - error occured while instering connection error occured on run time
+2025-03-21 14:46:13,868 - ERROR - [error] - milvus_insert - error occured while instering connection error occured on run time
+2025-03-21 14:46:13,868 - ERROR - [error] - milvus_insert - error occured while instering connection error occured on run time
+2025-03-21 14:53:00,571 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 14:53:00,571 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 14:53:00,571 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 14:53:00,571 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 14:53:00,604 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:53:00,604 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:53:00,604 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:53:00,604 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:53:00,604 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:53:00,726 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:53:00,726 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:53:00,726 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:53:00,726 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:53:00,726 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:53:00,726 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:53:52,735 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 14:53:52,735 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 14:53:52,735 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 14:53:52,735 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 14:53:52,768 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:53:52,768 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:53:52,768 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:53:52,768 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:53:52,768 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:53:52,891 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:53:52,891 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:53:52,891 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:53:52,891 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:53:52,891 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:53:52,891 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:55:24,705 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 14:55:24,705 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 14:55:24,705 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 14:55:24,705 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 14:55:24,739 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:55:24,739 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:55:24,739 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:55:24,739 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:55:24,739 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:55:24,857 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:55:24,857 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:55:24,857 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:55:24,857 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:55:24,857 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:55:24,857 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:55:41,885 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 14:55:41,885 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 14:55:41,885 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 14:55:41,885 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 14:55:41,916 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:55:41,916 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:55:41,916 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:55:41,916 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:55:41,916 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:55:42,036 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:55:42,036 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:55:42,036 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:55:42,036 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:55:42,036 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:55:42,036 - ERROR - [error] - milvus_insert - error occured while instering <MilvusException: (code=65535, message=the length(3) of float data should divide the dim(768))>
+2025-03-21 14:56:45,757 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 14:56:45,757 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 14:56:45,757 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 14:56:45,757 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 14:57:19,610 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 14:57:19,610 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 14:57:19,610 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 14:57:19,610 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 14:58:07,316 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 14:58:07,316 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 14:58:07,316 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 14:58:07,316 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 14:58:50,138 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 14:58:50,138 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 14:58:50,138 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 14:58:50,138 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:00:18,974 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:00:18,974 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:00:18,974 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:00:18,974 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:03:01,805 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:03:01,805 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:03:01,805 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:03:01,805 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:03:12,343 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:03:12,343 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:03:12,343 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:03:12,343 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:03:55,679 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:03:55,679 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:03:55,679 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:03:55,679 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:06:16,535 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:06:16,535 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:06:16,535 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:06:16,535 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:06:23,335 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:06:23,335 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:06:23,335 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:06:23,335 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:08:59,244 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:08:59,244 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:08:59,244 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:08:59,244 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:10:00,156 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:10:00,156 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:10:00,156 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:10:00,156 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:10:30,673 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:10:30,673 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:10:30,673 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:10:30,673 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:10:51,860 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:10:51,860 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:10:51,860 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:10:51,860 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:11:14,517 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:11:14,517 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:11:14,517 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:11:14,517 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:13:03,524 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:13:03,524 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:13:03,524 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:13:03,524 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:14:38,003 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:14:38,003 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:14:38,003 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:14:38,003 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:14:51,440 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:14:51,440 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:14:51,440 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:14:51,440 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:15:57,037 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:15:57,037 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:15:57,037 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:15:57,037 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:17:44,648 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:17:44,648 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:17:44,648 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-21 15:17:44,648 - ERROR - [error] - milvus_insert - error occured while instering DB_COLLECTION_NAME is not set in environment variables.
+2025-03-24 12:08:22,685 - ERROR - [error] - milvus_init - error while checking milvus connection CollectionSchema.add_field() missing 2 required positional arguments: 'field_name' and 'datatype'
+2025-03-24 12:09:30,980 - ERROR - [error] - milvus_init - error while checking milvus connection <MilvusException: (code=65535, message=create duplicate collection with different parameters, collection: ml_pdf_data)>
+2025-03-24 13:32:57,338 - ERROR - [error] - milvus_insert_data_courps - error while inserting milvus data <DataNotMatchException: (code=1, message=The Input data type is inconsistent with defined schema, please check it.)>
+2025-03-24 13:33:39,058 - ERROR - [error] - milvus_insert_data_courps - error while inserting milvus data <DataNotMatchException: (code=1, message=The Input data type is inconsistent with defined schema, please check it.)>
+2025-03-24 13:33:39,058 - ERROR - [error] - milvus_insert_data_courps - error while inserting milvus data <DataNotMatchException: (code=1, message=The Input data type is inconsistent with defined schema, please check it.)>
+2025-03-24 13:36:42,432 - ERROR - [error] - milvus_init - error while checking milvus connection <PrimaryKeyException: (code=1, message=Schema must have a primary key field.)>
+2025-03-24 13:36:45,752 - ERROR - [error] - milvus_init - error while checking milvus connection <PrimaryKeyException: (code=1, message=Schema must have a primary key field.)>
+2025-03-24 13:36:45,752 - ERROR - [error] - milvus_init - error while checking milvus connection <PrimaryKeyException: (code=1, message=Schema must have a primary key field.)>
+2025-03-24 13:37:21,777 - ERROR - [error] - milvus_init - error while checking milvus connection <PrimaryKeyException: (code=1, message=Schema must have a primary key field.)>
+2025-03-24 13:37:21,777 - ERROR - [error] - milvus_init - error while checking milvus connection <PrimaryKeyException: (code=1, message=Schema must have a primary key field.)>
+2025-03-24 13:37:21,777 - ERROR - [error] - milvus_init - error while checking milvus connection <PrimaryKeyException: (code=1, message=Schema must have a primary key field.)>
+2025-03-24 13:37:48,236 - ERROR - [error] - milvus_insert_data_courps - error while inserting milvus data not enough values to unpack (expected 3, got 2)
+2025-03-24 13:40:17,464 - ERROR - [error] - milvus_insert_data_courps - error while inserting milvus data tuple index out of range
+2025-03-25 07:56:41,557 - ERROR - [error] - milvus_insert_data_courps - error while inserting milvus data <MilvusException: (code=65535, message=the length(1152) of float data should divide the dim(768))>
+2025-03-25 07:58:23,141 - ERROR - [error] - milvus_insert_data_courps - error while inserting milvus data <MilvusException: (code=65535, message=the length(1152) of float data should divide the dim(768))>
+2025-03-25 07:58:23,141 - ERROR - [error] - milvus_insert_data_courps - error while inserting milvus data <MilvusException: (code=65535, message=the length(1152) of float data should divide the dim(768))>
+2025-03-25 14:05:07,455 - ERROR - [error] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:05:07,455 - ERROR - [error] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:05:07,455 - ERROR - [error] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:05:09,913 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:05:09,913 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:05:09,913 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:06:58,149 - ERROR - [error] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:06:58,149 - ERROR - [error] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:06:58,149 - ERROR - [error] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:07:00,686 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:07:00,686 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:07:00,686 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:07:37,662 - ERROR - [error] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:07:37,662 - ERROR - [error] - milvus_similarity_search - doing similarity search milvus data.
+2025-03-25 14:07:40,026 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:07:40,026 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:09:58,844 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:09:58,844 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:14:47,715 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:14:47,715 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:16:16,189 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:16:16,189 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:17:45,268 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:17:45,268 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:19:00,799 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:19:00,799 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:19:43,438 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:19:43,438 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:19:43,438 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:21:35,409 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:21:35,409 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:22:19,795 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment
+2025-03-25 14:22:19,795 - ERROR - [error] - milvus_similarity_search - error while doing similarity serach milvus data 'NoneType' object does not support item assignment

@@ -8,107 +8,150 @@ from pymilvus import (connections,
 
 from dotenv import load_dotenv
 import os
-from utils import logger
+from typing import Annotated
+from src.utils import logger
 import threading
-from langchain_milvus import Milvus
-
+from src.embeddings_generation import Embedding_model
 
 load_dotenv()
 _mivus_thread = threading.Lock()
-_milvus_connection = None
-_milvus_collection = None
 
 
-def milvus_initialization(collection_name = None,drop_collection = False):
-    global _milvus_connection,_milvus_collection
 
-    with _mivus_thread:
-        loggers = logger.Logger()
+class Milvus_init:
+    def __init__(self):
+        self.COLLECTION_NAME = os.getenv("DB_COLLECTION_NAME")
+        self.MILVUS_DB_ALIAS = os.getenv('MILVUS_DB_Alias')
+        self.MILVUS_HOST = os.getenv("MILVUS_HOST","localhost")
+        self.MILVUS_PORT = os.getenv("MILVUS_PORT","19530")
+        self.logger = logger.Logger()
+        self.MILVUS_URI = os.getenv("MILVUS_URI")
+        self.MILVUS_TOKEN = os.getenv('MILVUS_TOKEN')
+        self.CLIENT = MilvusClient(
+                    uri= self.MILVUS_URI,
+                    token = self.MILVUS_TOKEN
+                )
 
-        if collection_name is None:
-            collection_name = os.getenv('DB_COLLECTION_NAME')
-            if not collection_name:
-                loggers.error("unable to find collection_name from env varible ","milvus_init")
-                raise ValueError("collection name not found in env variables...")
-            
-
-
-        if _milvus_connection:
+    def initialize_collection(self,Drop_collection = False):
+        with _mivus_thread:
             try:
-                if connections.has_connection("default"):
-                    loggers.log("connection already exists and working ","milvus_init")
-                    return _milvus_collection
+                self.logger.log("establising a MILVUS Connection","initilize_collection")
+                
+                if Drop_collection or self.COLLECTION_NAME not in self.CLIENT.list_collections() :
+                    self.CLIENT.drop_collection(
+                        collection_name=self.COLLECTION_NAME
+                    )
+                    db_schema = MilvusClient.create_schema(
+                        auto_id = False
+                    )
+
+                    db_schema.add_field(field_name='pk', datatype=DataType.INT64, is_primary=True, auto_id= True)
+                    db_schema.add_field(field_name='filename', datatype=DataType.VARCHAR,max_length = 500)
+                    db_schema.add_field(field_name='embeddings', datatype=DataType.FLOAT_VECTOR,dim=384)
+                    db_schema.add_field(field_name='text', datatype=DataType.VARCHAR , max_length = 800)
+
+                    index_params = self.CLIENT.prepare_index_params()
+                    index_params.add_index(
+                        field_name="embeddings",
+                        index_type="AUTOINDEX",
+                        metric_type = "COSINE"
+                    )
+
+
+                    self.CLIENT.create_collection(
+                        collection_name=self.COLLECTION_NAME,
+                        schema = db_schema,
+                        index_params=index_params
+                    )
+                    self.logger.log(f"create a collection {self.COLLECTION_NAME} with schema and index_params","initilize_collection")
+
+                    res = self.CLIENT.get_load_state(
+                        collection_name=self.COLLECTION_NAME
+                    )
+
+                    return "Collection ceated successfully"
+                
+
+                self.logger.log(f'milvusdb collection {self.COLLECTION_NAME} already exists','milvus_init')
+                
+                return f"{self.COLLECTION_NAME} Collection already Exists. please drop the collection and try again."
             except Exception as e:
-                loggers.error(f"error while checking milvus connection {e}","milvus_init")
-
-        try:
-            connections.connect('default',host=os.getenv("MILVUS_HOST","localhost"),port=os.getenv("MILVUS_PORT","19530"))
-            _milvus_connection = True
-            loggers.log("new milvus connection extablished  ","milvus_init")
-        except Exception as e:
-            loggers.error(f"error while checking milvus connection {e}","milvus_init")
-
-        if drop_collection:
+                self.logger.error(f"error while checking milvus connection {e}","milvus_init")
+                return None
+    def Client_connection(self):
+        with _mivus_thread:
             try:
-                utility.drop_collection(collection_name)
-                loggers.log('Deleting the collection.','milvus_init')
+                self.logger.log("Milvus client connection Request","Client_connection")
+                return self.CLIENT
             except Exception as e:
-                loggers.log(f'unable to delete the collection {e}','milvus_init')
-    
-
-
-        fields = [
-            FieldSchema(name='pk', dtype=DataType.INT64, is_primary=True, auto_id= True),
-            FieldSchema(name='filename', dtype=DataType.VARCHAR,max_length = 500),
-            FieldSchema(name='embeddings', dtype=DataType.FLOAT_VECTOR,dim=768),
-            FieldSchema(name='text', dtype=DataType.VARCHAR , max_length = 500), 
-        ]
-
-
-        schema = CollectionSchema(fields,"Machine learning")
-
-        try:
-            if utility.has_collection(collection_name):
-                _milvus_collection = Collection(collection_name)
-                loggers.log(f'milvusdb collection {collection_name} retrived','milvus_init')
-                return _milvus_collection
-            else:
-                _milvus_collection = Collection(collection_name,schema)
-                loggers.log(f'milvusdb collection {collection_name} created and retrived','milvus_init')
-                return _milvus_collection
-        except Exception as e:
-                loggers.error(f'milvus db get collection error  {e}','milvus_init')
+                self.logger.error(f"error while checking milvus connection {e}","Client_connection")
                 return None
             
+    def milvus_insert_data_corpus(self,corpus_data : list):
         
+        try:
+
+            if self.COLLECTION_NAME not in self.CLIENT.list_collections():
+                self.logger.log(f'milvusdb collection {self.COLLECTION_NAME} does not exists','milvus_insert_data_courps')
+                raise Exception
+            
+
+            i_data = [{"filename":filename,"embeddings":embeding,"text":text} for filename, embeding, text in corpus_data]
+
+            res = self.CLIENT.insert(
+                collection_name = self.COLLECTION_NAME,
+                data = i_data
+            )
+            return "data inserted successfully "
+            
+        except Exception as e:
+            self.logger.error(f"error while inserting milvus data {e}","milvus_insert_data_courps")
+            raise e
+    
+
+    def milvus_similarity_search(   self,
+                                    query : Annotated[int,"The user query to search"],
+                                    search_column : Annotated[int,"The user query to search"] = 'embeddings',
+                                    collection : Annotated[str, "The db collection to search into."] = None ,
+                                    k  : Annotated[int, "The number of search results you want. "] = 5,
+                                    query_search_params : Annotated[dict,"The search metrics you want to use for search."] = None,
+                                    output_field : Annotated[list,"The list of columns for results output."] = ['text','filename']
+                                    ):
         
+        try:
+            self.logger.log(f"doing similarity search milvus data.","milvus_similarity_search")
 
-# milvus_initialization(drop_collection=True)
-# print(milvus_initialization())
-def milvus_insert_data(file_name : str,doc : str, doc_embeding):
-    logs = logger.Logger()
-    try:
-        client = MilvusClient(
-            uri= os.getenv("MILVUS_URI"),
-            token = "root:Milvus"
-        )
+            if not collection:
+                collection = self.COLLECTION_NAME
+            
+            search_params = dict()
 
-        data = [{
-            "filename":file_name,
-            "text":doc,
-            "embeddings":doc_embeding
-        }]
+            if not k:
+                k = 5
 
-        res = client.insert(
-            collection_name=os.getenv("DB_COLLECTION_NAME"),
-            data=data
-        )
-        logs.log("inserted in to the collection","milvus_insert")
-        return res 
-    except Exception as e:
-        logs.error(f"error occured while instering {e}","milvus_insert")
+            
 
+            if search_params:
+                search_params['serach_params'] = search_params
 
+            embed_model = Embedding_model()
+            query_embeding = embed_model.embed_query(query)
+            search_params['collection_name'] = collection
+            search_params['output_fields'] = output_field
+            search_params['data'] = [query_embeding]
+            search_params['anns_field'] = search_column
+            search_params['limit'] = k
+
+            search_result = self.CLIENT.search(**search_params)
+            
+            return search_result
 
 
-   
+
+            
+        except Exception as e:
+            self.logger.error(f"error while doing similarity serach milvus data {e}","milvus_similarity_search")
+            return None
+
+    
+
